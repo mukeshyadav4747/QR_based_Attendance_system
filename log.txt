@@ -1,0 +1,30 @@
+Hello Mukesh, Your Attendance Has been taken,2025-05-14 10:16:52.273015
+Hello, Shubham , Your attendance has been taken successfully,2025-05-14 10:24:13.503243
+Hello, Shubham , Your attendance has been taken successfully,2025-05-14 10:24:18.509744
+Hello, Reyansh, Your Attendance has been taken,2025-05-14 10:24:57.309472
+Hello mr. Aadi, Your attendance has been taken successfully.,2025-05-14 10:43:38.909948
+Hello mr. Aadi, Your attendance has been taken successfully.,2025-05-14 11:51:51.374932
+Name: Manvik Kumar Yadav | ID: MK78899 | Your attendance has been taken successfully.,2025-05-14 13:43:38.972310
+Name: Manvik Kumar Yadav | ID: MK78899 | Your attendance has been taken successfully.,2025-05-14 14:55:55.167449
+Name: Manvik Kumar Yadav | ID: MK78899 | Your attendance has been taken successfully.,2025-05-14 14:56:00.175981
+Hello Mukesh, Your Attendance Has been taken,2025-05-14 14:58:00.575119
+Hello, Reyansh, Your Attendance has been taken,2025-05-14 14:58:08.670827
+Hello, Shubham , Your attendance has been taken successfully,2025-05-14 14:58:13.775251
+Hello mr. Aadi, Your attendance has been taken successfully.,2025-05-14 14:58:18.881458
+Name: Manvik Kumar Yadav | ID: MK78899 | Your attendance has been taken successfully.,2025-05-14 14:58:26.863022
+Name: Suresh Sharma | ID: SS21797 | Your attendance has been taken successfully.,2025-05-14 19:10:00.891093
+Name: Suresh Sharma | ID: SS21797 | Your attendance has been taken successfully.,2025-05-14 19:24:05.038122
+Name: Suresh Sharma | ID: SS21797 | Your attendance has been taken successfully.,2025-05-14 19:30:22.543396
+Hello mr. Aadi, Your attendance has been taken successfully.,2025-05-14 19:32:00.683734
+Name: Shubham Sharma | ID: SS85314 | Your attendance has been taken successfully.,2025-05-14 19:59:03.562372
+Name: Kamla Yadav | ID: KY16963 | Your attendance has been taken successfully.,2025-05-14 20:08:16.586405
+Name: Kubernetes | ID: KX45775 | Your attendance has been taken successfully.,2025-05-15 12:10:24.171826
+Name: Kubernetes | ID: KX45775 | Your attendance has been taken successfully.,2025-05-15 12:10:29.175146
+Name: Kubernetes | ID: KX45775 | Your attendance has been taken successfully.,2025-05-15 12:10:35.774424
+Name: Kubernetes | ID: KX45775 | Your attendance has been taken successfully.,2025-05-15 12:14:29.739387
+Name: Kubernetes | ID: KX45775 | Your attendance has been taken successfully.,2025-05-15 12:17:18.062277
+Name: Naresh Jaipur | ID: NJ79310 | Your attendance has been taken successfully.,2025-05-15 12:30:32.968320
+Name: Naresh Jaipur | ID: NJ79310 | Your attendance has been taken successfully.,2025-05-15 12:30:54.412890
+Name: Naresh Jaipur | ID: NJ79310 | Your attendance has been taken successfully.,2025-05-15 12:54:57.480269
+Name: Saurabh Sir | ID: SS96415 | Your attendance has been taken successfully.,2025-05-15 13:01:35.755594
+Name: Saurabh Sir | ID: SS96415 | Your attendance has been taken successfully.,2025-05-15 13:01:55.691645

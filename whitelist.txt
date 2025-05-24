@@ -1,0 +1,15 @@
+Hello Mukesh, Your Attendance Has been taken
+Hello, Reyansh, Your Attendance has been taken
+Hello, Shubham , Your attendance has been taken successfully
+Hello PM, Your Attendance Has been taken
+Hello mr. Aadi, Your attendance has been taken successfully.
+Name: Mukesh Yadav | ID: MY77072 | Your attendance has been taken successfully.
+Name: Reyansh Yadav | ID: RY28471 | Your attendance has been taken successfully.
+Name: Manvik Kumar Yadav | ID: MK78899 | Your attendance has been taken successfully.
+Name: Suresh Sharma | ID: SS21797 | Your attendance has been taken successfully.
+Name: Shubham Sharma | ID: SS85314 | Your attendance has been taken successfully.
+Name: Kamla Yadav | ID: KY16963 | Your attendance has been taken successfully.
+Name: AWS | ID: AX58119 | Your attendance has been taken successfully.
+Name: Kubernetes | ID: KX45775 | Your attendance has been taken successfully.
+Name: Naresh Jaipur | ID: NJ79310 | Your attendance has been taken successfully.
+Name: Saurabh Sir | ID: SS96415 | Your attendance has been taken successfully.
