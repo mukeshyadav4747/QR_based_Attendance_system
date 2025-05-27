@@ -28,3 +28,4 @@ Name: Naresh Jaipur | ID: NJ79310 | Your attendance has been taken successfully.
 Name: Naresh Jaipur | ID: NJ79310 | Your attendance has been taken successfully.,2025-05-15 12:54:57.480269
 Name: Saurabh Sir | ID: SS96415 | Your attendance has been taken successfully.,2025-05-15 13:01:35.755594
 Name: Saurabh Sir | ID: SS96415 | Your attendance has been taken successfully.,2025-05-15 13:01:55.691645
+Name: Digvijay Singh Rathore | ID: DS28869 | Your attendance has been taken successfully.,2025-05-25 20:59:16.307056

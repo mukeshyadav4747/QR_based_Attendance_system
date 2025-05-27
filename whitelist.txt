@@ -13,3 +13,4 @@ Name: AWS | ID: AX58119 | Your attendance has been taken successfully.
 Name: Kubernetes | ID: KX45775 | Your attendance has been taken successfully.
 Name: Naresh Jaipur | ID: NJ79310 | Your attendance has been taken successfully.
 Name: Saurabh Sir | ID: SS96415 | Your attendance has been taken successfully.
+Name: Digvijay Singh Rathore | ID: DS28869 | Your attendance has been taken successfully.
