@@ -21,4 +21,4 @@ jobs:
 
       - name: Upload files to S3
         run: |
-          aws s3 sync ./local-folder s3://QR_BASED_ATTENDANCE_SYSTEM
+          aws s3 sync ./local-folder s3://qr-based-attendance-system

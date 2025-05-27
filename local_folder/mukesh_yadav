@@ -1,0 +1,1 @@
+# This is a Streamlit-based web application for generating and scanning QR codes for attendance tracking. It uses OpenCV for webcam scanning and pyzbar for decoding QR codes.
